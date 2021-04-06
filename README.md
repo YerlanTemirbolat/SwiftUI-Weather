@@ -1,2 +1,2 @@
 # SwiftUI-Weather
-# ![ScreenShot](/Moscow.png)
+# ![Alt text](/relative/path/to/Moscow.jpg?raw=true "Optional Title")
